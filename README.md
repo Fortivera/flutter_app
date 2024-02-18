@@ -1,4 +1,4 @@
-# flutter_messing
+# flutter_app
 
 A new Flutter project.
 
